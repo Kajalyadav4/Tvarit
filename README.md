@@ -1,5 +1,6 @@
+Our webapp named Tvarit contains several pages which are briefly describe below:
 1. Homepage:
-   1) Conatins a navbar which includes the links to various other webpages of the website namely Resources, Guidelines, Login, Registration form, AboutUs.
+   1) Contains a navbar which includes the links to various other webpages of the website namely Resources, Guidelines, Login, Registration form, AboutUs.
    2) Contains a link to a live chat room. This chat room facilitates conversation between all the volunteers, service providers and the victims during a disaster. 
       This can help in quick and efficient collection and distribution of resources to the people in need.
    3) Contains a google map which shows the live location of the region where disaster has occured and services are to be provided.
