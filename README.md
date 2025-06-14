@@ -1,33 +1,64 @@
-Our webapp named Tvarit contains several pages which are briefly describe below:
-1. Homepage:
-   1) Contains a navbar which includes the links to various other webpages of the website namely Resources, Guidelines, Login, Registration form, AboutUs.
-   2) Contains a link to a live chat room. This chat room facilitates conversation between all the volunteers, service providers and the victims during a disaster. 
-      This can help in quick and efficient collection and distribution of resources to the people in need.
-   3) Contains a google map which shows the live location of the region where disaster has occured and services are to be provided.
-   4) Contains two buttons named -
-      i) 'SOS' which sends a request for help when clicked by a victim during emergency by sending the victim's data such as location,etc to 
-          the nearest service providers or government officials.
-      ii) 'request/check' which is sent by the official coordinators to the victim so as to check the situation. If victim acknowledges the 'check' alert, it means 
-           that the victim can be provided with the help within an hour or two but in case if the victim does not acknowledges the alert, he/she is in urgent need 
-           of help.
-   5) Contains a footer.
-2. Resources Page:
-   It tells about the resources or services which will be provided by the service providers and government officials to the people in need.
-3. Guidelines Page:
-   Provides information to spread awareness of do's and dont's during any calamity.
-4. Login Page:
-   1) User can login by giving Username and password as the input. If it matches the database he/she will be logged in to the website.
-   2) If any user is new to the website they can register by clicking on the 'register here' button.
-   3) They can also login by their Facebook or Google ID.
-   4) If the user forgets their password, they can reset it by going to 'forgot password'.
-5. Registration Page:
-   Here, user can register themselves by giving the credentials needed there, which are kept encrypted in the database.
-6. About us:
-   This page provides basic info of our motto alongwith the information about working, services and and contact details. It can also take the user to various 
-   social media ids of Travit.
-7. Service Page:
-   This page provides ease of registration to the volunteers so that anyone willing to help can volunteer. Also anyone willing to donate anything can easily do so.
-     
-   
-    
-   
+# Tvarit - Disaster Relief Web Application
+
+Tvarit is a web-based platform designed to assist during natural disasters by enabling real-time communication, coordination, and resource distribution among victims, volunteers, and official service providers.
+
+---
+
+## Overview
+
+Tvarit acts as a bridge between those affected by disasters and those who can help. It provides emergency features, live updates, and communication tools to improve disaster response and management.
+
+---
+
+## Features
+
+### Homepage
+
+- Navigation bar with links to key pages: Resources, Guidelines, Login, Registration, About Us.
+- Live chat room for real-time communication between victims, volunteers, and officials.
+- Embedded Google Map showing live location of affected regions.
+- SOS Button: Allows victims to send emergency alerts with location data to nearby officials.
+- Request/Check Button: Used by coordinators to check on victims. If acknowledged, help can be scheduled; if not, the situation is treated as urgent.
+- Footer with additional links and contact info.
+
+### Resources Page
+
+- Lists available resources and services such as food, shelter, medical aid, and transportation provided by officials and volunteers.
+
+### Guidelines Page
+
+- Provides important do's and don'ts to follow during natural disasters for increased awareness and safety.
+
+### Login Page
+
+- Users can log in using a username and password.
+- Supports login through Facebook and Google.
+- Includes options for new user registration and password recovery.
+
+### Registration Page
+
+- Allows new users to register by providing necessary credentials.
+- User data, including passwords, is securely stored in encrypted form.
+
+### About Us Page
+
+- Describes the purpose and goals of Tvarit.
+- Provides background on services and team information.
+- Includes links to social media pages.
+
+### Service Page
+
+- Volunteers can register to offer help.
+- Allows individuals to donate goods or services to support relief operations.
+
+---
+
+## Purpose
+
+Tvarit aims to streamline and improve disaster response efforts by ensuring effective communication, efficient resource distribution, and timely aid through a centralized web platform.
+
+---
+
+## License
+
+This project is intended for academic, research, and educational purposes.
